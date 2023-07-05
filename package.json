@@ -1,0 +1,15 @@
+{
+  "name": "netlify-serverless",
+  "version": "1.0.0",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maxim Orlov <maximorl@gmail.com> (https://github.com/Maximization)",
+  "license": "MIT",
+  "devDependencies": {
+    "node-fetch": "3.3.1"
+  }
+}
